@@ -1,1 +1,3 @@
 # power-bi-workshop
+
+[Link to dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTczZmRmNTktZDgzMS00MWM1LWIwZTMtMjNjMmU4YTViMWQyIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=ReportSection2b37777cd5340209e3d0)
